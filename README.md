@@ -56,3 +56,4 @@ Instructions:
 
 
 6. you can get the GeoJSON by executing following script
+   CreateGeojson.sql
